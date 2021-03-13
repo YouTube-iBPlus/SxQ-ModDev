@@ -1,6 +1,6 @@
 # disBot
 
-Türkçe Discord Tutorial Bot, Erkin KUNBUK
+Türkçe Discord Tutorial Bot, iBPlus
 
 ## Açıklama
 
